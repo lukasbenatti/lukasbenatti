@@ -1,7 +1,7 @@
-### Hi there 👋
+#### Olá! Eu sou o Lucas Benatti
 
 - 🔭 Hoje trabalho com front-end 
-- 🌱 Estudando Analise React 
+- 🌱 Estudante de Analise e Desenvolvimento de Sistemas 
 - 📫 Contate-me: contatolukasbenatti@gmail.com 
 - 😄 Pronouns: ele/dele
 
